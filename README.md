@@ -1,1 +1,1 @@
-MiguelSilva.github.io.git
+MiguelSilva.github.io
